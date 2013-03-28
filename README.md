@@ -1,1 +1,5 @@
-Python
+findcycle:
+
+cardgame:
+
+dijkstra:
