@@ -1,4 +1,4 @@
-Implementation of problem from http://swiftstack.com/jobs/puzzles/party/:
+Implementation of problem from http://swiftstack.com/jobs/puzzles/party/ :
 
 "It's a Python Party!
 John Partyson is the CEO at PartyCo, and he wants to celebrate a
